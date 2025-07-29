@@ -98,9 +98,9 @@ Your Name – @yourhandle
 
 ---
 
-## ✅ STEP 10: `Dockerfile`
+STEP 10: `Dockerfile`
 
-Here’s how to Dockerize your FastAPI app:
+Here’s how to Dockerize the FastAPI app:
 
 ### Create `Dockerfile` in root:
 
